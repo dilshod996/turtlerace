@@ -3,3 +3,4 @@
 #gotofunction
 #setupfunction
 #xcorfunction
+#textinput
