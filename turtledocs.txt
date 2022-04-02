@@ -1,0 +1,14 @@
+<--------More Turtle-------->
+
+for screen size-> screen.setup(width=, height=)
+for input value->screen.textinput(title = str, prompt(your question)=str)
+for controling turtle so drawing somethin with pressing a key value->
+----> screen.listen()
+---->screen.onkey(key= choose one of the letter that you gonna press, fun = function_name for example, 
+   def move_forward():
+       turtle_name.forward(10)
+ call the function name for moving forward pressing key that u choose before)
+----penup()--->take pen from drawing 
+----pendown()---- put pen the point you want
+----goto(x = width, y = height)-- it works with x and y cordinates before you assigned setup function that allows you screen
+of the turtle run environment 
